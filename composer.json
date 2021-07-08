@@ -1,9 +1,9 @@
 {
-    "name": "chrisshick/cakephp-airbrake",
+    "name": "apoor-yadav/cakephp-airbrake",
     "type": "cakephp-plugin",
     "description": "A CakePHP 3.x plugin to use Airbrake for errors and exceptions",
     "keywords": ["cakephp", "cakephp3", "plugin", "airbrake"],
-    "homepage": "https://github.com/chrisShick/AirbrakeCake",
+    "homepage": "https://github.com/apoorv-yadav/AirbrakeCake",
     "require": {
         "php": ">=5.4.0",
         "dbtlr/php-airbrake": "1.*"
@@ -15,13 +15,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Hickingbottom",
-            "email": "chris@pharmedio.com"
+            "name": "Apoorv Yadav",
+            "email": "apoorvisofficially@gmail.com"
         }
     ],
     "autoload": {
       "psr-4": {
-        "chrisShick\\AirbrakeCake\\": "src"
+        "apoorvy\\AirbrakeCake\\": "src"
       }
     }
 }
