@@ -3,7 +3,7 @@ A plugin to seamlessly integrate Airbrake with CakePHP 3 for errors and exceptio
 
 # Installation via Composer
 ```
-composer require chrisshick/cakephp-airbrake
+composer require apoorv-yadav/cakephp-airbrake
 ```
 
 # Setup
