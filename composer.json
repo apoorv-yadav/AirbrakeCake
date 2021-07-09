@@ -18,10 +18,5 @@
             "name": "Apoorv Yadav",
             "email": "apoorvisofficially@gmail.com"
         }
-    ],
-    "autoload": {
-      "psr-4": {
-        "AirbrakeCake\\": "src/"
-      }
-    }
+    ]
 }
